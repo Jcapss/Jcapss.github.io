@@ -19,7 +19,7 @@ body{
     left: 40px;
     top: 300px;
     font-style:normal;
-    text-align:center;
+    text-align:justify , center;
 }
 nav ul {
     position: fixed;
